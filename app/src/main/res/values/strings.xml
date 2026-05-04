@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TradeIn</string>
+    <string name="title_main">My Strategies</string>
+    <string name="title_add">New Strategy</string>
+    <string name="title_detail">Strategy Detail</string>
+    <string name="hint_asset">Assets (BTC/USDT)</string>
+    <string name="hint_amount">Investment Amount (USD)</string>
+    <string name="hint_start_date">Start Date</string>
+    <string name="hint_end_date">End Date</string>
+    <string name="hint_notes">Notes (optional)</string>
+    <string name="btn_save">Save Strategy</string>
+    <string name="empty_state">No strategies yet.\nTap + to add your first DCA strategy.</string>
+</resources>

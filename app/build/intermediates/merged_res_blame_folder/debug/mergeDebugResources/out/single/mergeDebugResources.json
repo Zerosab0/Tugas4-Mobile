@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Gian Kausari\\.gradle\\daemon\\9.1.0\\com.tradein.app-debug-35:\\layout_activity_add_strategy.xml.flat",
+        "source": "C:\\Users\\Gian Kausari\\.gradle\\daemon\\9.1.0\\com.tradein.app-main-37:\\layout\\activity_add_strategy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gian Kausari\\.gradle\\daemon\\9.1.0\\com.tradein.app-debug-35:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Gian Kausari\\.gradle\\daemon\\9.1.0\\com.tradein.app-main-37:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gian Kausari\\.gradle\\daemon\\9.1.0\\com.tradein.app-debug-35:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\Gian Kausari\\.gradle\\daemon\\9.1.0\\com.tradein.app-main-37:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gian Kausari\\.gradle\\daemon\\9.1.0\\com.tradein.app-debug-35:\\drawable_spinner_bg.xml.flat",
+        "source": "C:\\Users\\Gian Kausari\\.gradle\\daemon\\9.1.0\\com.tradein.app-main-37:\\drawable\\spinner_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gian Kausari\\.gradle\\daemon\\9.1.0\\com.tradein.app-debug-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Gian Kausari\\.gradle\\daemon\\9.1.0\\com.tradein.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.tradein.app-debug-35:/layout_activity_main.xml.flat",
+        "source": "com.tradein.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gian Kausari\\.gradle\\daemon\\9.1.0\\com.tradein.app-debug-35:\\layout_item_strategy.xml.flat",
+        "source": "C:\\Users\\Gian Kausari\\.gradle\\daemon\\9.1.0\\com.tradein.app-main-37:\\layout\\item_strategy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gian Kausari\\.gradle\\daemon\\9.1.0\\com.tradein.app-debug-35:\\drawable_badge_bg.xml.flat",
+        "source": "C:\\Users\\Gian Kausari\\.gradle\\daemon\\9.1.0\\com.tradein.app-main-37:\\drawable\\badge_bg.xml"
+    }
+]
